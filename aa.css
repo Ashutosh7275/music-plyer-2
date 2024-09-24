@@ -1,0 +1,23 @@
+.music{
+    background-color: blue;
+    border-radius: 20px;
+}
+body{
+    background-size: cover;
+    background-position: top;
+    background-color: rgb(197, 86, 86);
+}    
+.list{
+display: flex;    
+}
+.song{
+    background-color: chocolate;
+    color: rgb(210, 247, 4);
+    border-radius: 40px;
+}
+.search{
+   
+    border-radius: 40%;
+    width: 70px;
+    height: 70px;
+}
