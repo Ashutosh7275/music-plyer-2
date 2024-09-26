@@ -5,7 +5,7 @@
 body{
     background-size: cover;
     background-position: top;
-    background-image:url(/Screenshot\ 2023-10-06\ 212512.png) ;
+    background-image:url(\Screenshot\ 2023-10-06\ 212512.png) ;
 }    
 .list{
 display: flex;    
@@ -16,7 +16,6 @@ display: flex;
     border-radius: 40px;
 }
 .search{
-   
     border-radius: 40%;
     width: 70px;
     height: 70px;
