@@ -5,13 +5,13 @@
 body{
     background-size: cover;
     background-position: top;
-    background-image:url(\Screenshot\ 2023-10-06\ 212512.png) ;
+    background-color: darkred;
 }    
 .list{
 display: flex;    
 }
 .song{
-    background-color: chocolate;
+    background-color: rgb(250, 122, 31);
     color: rgb(210, 247, 4);
     border-radius: 40px;
 }
