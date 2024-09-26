@@ -5,7 +5,7 @@
 body{
     background-size: cover;
     background-position: top;
-    background-color: rgb(197, 86, 86);
+    background-image:url(/Screenshot\ 2023-10-07\ 041859\ \ 1.png) ;
 }    
 .list{
 display: flex;    
